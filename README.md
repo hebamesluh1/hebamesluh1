@@ -4,7 +4,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hebamesluh1&label=Profile%20views&color=0e75b6&style=flat" alt="hebamesluh1" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hebah_o0" target="blank"><img src="https://img.shields.io/twitter/follow/hebah_o0?logo=twitter&style=for-the-badge" alt="hebah_o0" /></a> </p>
+
 
 - 🌱 I’m currently learning **Redux - Typescript**
 
