@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Redux - Typescript**
+- 🌱 I’m currently learning **Redux - Next js - Typescript**
 
 - 💬 Ask me about **Html - css - bootstrap - JS - React JS**
 
